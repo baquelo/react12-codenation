@@ -27,3 +27,25 @@ body {
 .topbar__direct {
   box-sizing: border-box;
 }
+
+.post {
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+}
+
+.post__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.post__header .post__profile {
+  display: flex;
+  flex-direction: row;
+}
+
+.post__header .post__image {
+  height: 25px;
+  border-radius: 50%;
+}
