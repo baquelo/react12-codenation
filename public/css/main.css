@@ -157,7 +157,6 @@ main {
 
 .post__footer {
   background: rgba(0, 0, 0, 0.05);
-  height: 46px;
   padding-left: 10px;
   display: flex;
   justify-items: start;
